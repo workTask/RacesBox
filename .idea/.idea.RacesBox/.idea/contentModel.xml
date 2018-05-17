@@ -5,11 +5,9 @@
     <e p="D:\GitHub\RacesBox" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scenes" t="Include">
-          <e p="Scripts" t="Include">
-            <e p="Player.cs" t="Include" />
-            <e p="PlayerMovement.cs" t="Include" />
-          </e>
+        <e p="Scripts" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
