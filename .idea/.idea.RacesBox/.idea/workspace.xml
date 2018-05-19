@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ecf91a-79d8-4bd7-b535-974a2bd4564b" name="Default" comment="add scripts">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RacesBox/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RacesBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RacesBox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" afterDir="false" />
-    </list>
+    <list default="true" id="75ecf91a-79d8-4bd7-b535-974a2bd4564b" name="Default" comment="add scripts" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <marker date="1526723860988" expanded="true" signature="61:355" ph="{...}" />
                 <marker date="1526723860988" expanded="true" signature="130:169" ph="{...}" />
@@ -32,14 +28,14 @@
       <file leaf-file-name="PlayerMovement.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="442">
+              <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="84" />
               <folding>
-                <marker date="1526579812700" expanded="true" signature="63:555" ph="{...}" />
-                <marker date="1526579812700" expanded="true" signature="182:253" ph="{...}" />
-                <marker date="1526579812700" expanded="true" signature="282:553" ph="{...}" />
-                <marker date="1526579812700" expanded="true" signature="404:464" ph="{...}" />
-                <marker date="1526579812700" expanded="true" signature="489:550" ph="{...}" />
+                <marker date="1526730026124" expanded="true" signature="63:607" ph="{...}" />
+                <marker date="1526730026124" expanded="true" signature="182:253" ph="{...}" />
+                <marker date="1526730026124" expanded="true" signature="282:605" ph="{...}" />
+                <marker date="1526730026124" expanded="true" signature="404:490" ph="{...}" />
+                <marker date="1526730026124" expanded="true" signature="515:602" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -79,8 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/PlayerMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
       </list>
     </option>
   </component>
@@ -90,7 +86,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1036" />
@@ -160,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526545521332</updated>
       <workItem from="1526545526596" duration="9548000" />
-      <workItem from="1526721663600" duration="1881000" />
+      <workItem from="1526721663600" duration="2567000" />
     </task>
     <task id="LOCAL-00001" summary="add scripts">
       <created>1526580616863</created>
@@ -180,7 +176,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11429000" />
+    <option name="totallyTimeSpent" value="12115000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,7 +188,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="32" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -266,7 +262,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <marker date="1526723860988" expanded="true" signature="61:355" ph="{...}" />
             <marker date="1526723860988" expanded="true" signature="130:169" ph="{...}" />
@@ -277,14 +273,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="442">
+          <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="84" />
           <folding>
-            <marker date="1526579812700" expanded="true" signature="63:555" ph="{...}" />
-            <marker date="1526579812700" expanded="true" signature="182:253" ph="{...}" />
-            <marker date="1526579812700" expanded="true" signature="282:553" ph="{...}" />
-            <marker date="1526579812700" expanded="true" signature="404:464" ph="{...}" />
-            <marker date="1526579812700" expanded="true" signature="489:550" ph="{...}" />
+            <marker date="1526730026124" expanded="true" signature="63:607" ph="{...}" />
+            <marker date="1526730026124" expanded="true" signature="182:253" ph="{...}" />
+            <marker date="1526730026124" expanded="true" signature="282:605" ph="{...}" />
+            <marker date="1526730026124" expanded="true" signature="404:490" ph="{...}" />
+            <marker date="1526730026124" expanded="true" signature="515:602" ph="{...}" />
           </folding>
         </state>
       </provider>
