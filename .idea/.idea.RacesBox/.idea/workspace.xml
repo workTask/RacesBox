@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75ecf91a-79d8-4bd7-b535-974a2bd4564b" name="Default" comment="add scripts">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RacesBox/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RacesBox/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RacesBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RacesBox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/ObstecleMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/ObstecleMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerCollision.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerCollision.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Obstecle.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Obstecle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Obstacle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Obstacle.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,12 +46,13 @@
       <file leaf-file-name="PlayerCollision.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerCollision.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="170">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding>
-                <marker date="1526889275251" expanded="true" signature="64:353" ph="{...}" />
-                <marker date="1526889275251" expanded="true" signature="164:351" ph="{...}" />
-                <marker date="1526889275251" expanded="true" signature="222:348" ph="{...}" />
+                <marker date="1526889876853" expanded="true" signature="64:446" ph="{...}" />
+                <marker date="1526889876853" expanded="true" signature="164:444" ph="{...}" />
+                <marker date="1526889876853" expanded="true" signature="173:227" ph="/* collision player with obstacle ... */" />
+                <marker date="1526889876853" expanded="true" signature="275:441" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -194,7 +191,7 @@
       <workItem from="1526836644900" duration="229000" />
       <workItem from="1526837044174" duration="370000" />
       <workItem from="1526838236420" duration="3059000" />
-      <workItem from="1526885217171" duration="3383000" />
+      <workItem from="1526885217171" duration="3907000" />
     </task>
     <task id="LOCAL-00001" summary="add scripts">
       <created>1526580616863</created>
@@ -214,7 +211,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19923000" />
+    <option name="totallyTimeSpent" value="20447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,9 +316,10 @@
         <state relative-caret-position="221">
           <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
           <folding>
-            <marker date="1526889275251" expanded="true" signature="64:353" ph="{...}" />
-            <marker date="1526889275251" expanded="true" signature="164:351" ph="{...}" />
-            <marker date="1526889275251" expanded="true" signature="222:348" ph="{...}" />
+            <marker date="1526889876853" expanded="true" signature="64:446" ph="{...}" />
+            <marker date="1526889876853" expanded="true" signature="164:444" ph="{...}" />
+            <marker date="1526889876853" expanded="true" signature="173:227" ph="/* collision player with obstacle ... */" />
+            <marker date="1526889876853" expanded="true" signature="275:441" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -408,12 +406,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerCollision.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
-            <marker date="1526889275251" expanded="true" signature="64:353" ph="{...}" />
-            <marker date="1526889275251" expanded="true" signature="164:351" ph="{...}" />
-            <marker date="1526889275251" expanded="true" signature="222:348" ph="{...}" />
+            <marker date="1526889876853" expanded="true" signature="64:446" ph="{...}" />
+            <marker date="1526889876853" expanded="true" signature="164:444" ph="{...}" />
+            <marker date="1526889876853" expanded="true" signature="173:227" ph="/* collision player with obstacle ... */" />
+            <marker date="1526889876853" expanded="true" signature="275:441" ph="{...}" />
           </folding>
         </state>
       </provider>
